@@ -44,7 +44,7 @@ class Circle extends Shape
     Circle(int radius)
     {
         this.dimension1 = radius;
-        this.dimension2 = 0; // Not used for Circle
+        this.dimension2 = 0; 
     }
 
     void printArea() 
